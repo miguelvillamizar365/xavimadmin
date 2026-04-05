@@ -12,8 +12,7 @@
                     {{ __("You're logged in!") }}
                 </div>
                 <div class="container">
-                    <h1 class="text-center text-primary">Hello Bootstrap in Laravel!</h1>
-                    <button class="btn btn-success">Click me</button>
+                   
                 </div>
 
             </div>
